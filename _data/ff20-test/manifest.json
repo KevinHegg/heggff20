@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://KevinHegg.github.io/heggff20/ff20-test/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "FF20 Test" ] },
+    "items": [
+      {
+        "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3302,
+        "items": [
+          {
+            "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://apps.lib.jmu.edu/audiannotate/FF022.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 3302
+                },
+                "target": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

@@ -1,0 +1,932 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "now ready to learn. Such impudent portraits of people. People she paints or invents. Such combos of colloquial and obscure, bound to confound and delight. And I say",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "141.54,162.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "with language is various and respectful. Here is the author of the classic <I>A Mother Speaks",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.45,239.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now let's see now. I have -- I had six Chicano poets",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "271.08,296.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I started out by saying",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "324.45,339.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They are lovers of humanity",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "550.53,567.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The poets among such fight Blackness with every punch and pout in their power. Such people are very busy imitating the new moderns",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "608.67,628.23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Insert",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "651.27,666.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Next morning, the newspaper streamers proclaimed",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "711.76,736.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "However, Sonia Sanchez is an explorer. I have always thought of her as one of that quintet of Black people",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "739.57,759.55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dudley Randall, poet and founder of Broadside Press, courageously published, platformed them all. In the late '60s, the quintet tried to do something fresh",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "794.95,813.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "her serious and inclusive avowals is this",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "954.97,967.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "they maintain integrity, and a decent family loyalty. He has influenced thousands of poets",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1037.59,1059.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1189.21,1189.39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1189.39,1191.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1191.85,1192.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1192.57,1194.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1194.22,1194.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1195.66,1198.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1198.45,1198.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1198.75,1199.59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1202.71,1203.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1203.46,1213.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1216.51,1216.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1216.66,1217.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1227.49,1229.29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='darkgreen'><b>Gwendolyn Brooks</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1229.29,1240.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "hope you do too. It sounds so demoting",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1362.4,1366.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Richardine inhabits this poem",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1470.79,1494.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Those of you... If there are any white mothers in here of Black children you know this poem does not refer to you. The poem featuring Fleur, F-l-e-u-r. And it's called",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1803.94,1829.83"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<i>Puzzlement</i>. Diego. Diego has been in school, and it's Black pride day, and little Black children are running all around hollering",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1951.51,1974.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I know I'm not gonna make any converts. And I know that African American sounds soft and sweet, and inoffensive",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2143.0,2157.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well at least you're tolerating me. I'm going to read to you a poem that begins my book Winnie and of course Winnie is Winnie Mandela. The opening poem",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2170.9,2192.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "what they wanted.// Winnie Mandela, she/ is there to be vivid",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2261.5,2280.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\"\"Listen, my Sisters, Brothers, all ye/ that dance on the brink of Blackness,/ never falling in\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2284.48,2305.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<i>We Real Cool",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2707.21,2732.86"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='NONE'><b>Unknown Speaker</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2792.53,2809.75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='saddlebrown'><b>Haki R. Madhubuti</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2813.11,2825.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the latest book, which will be published, actually, October the 10th -- it's been out now for a couple of months, is <i>Claiming Earth",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2869.99,2883.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the title of the piece is simply",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2890.25,2911.55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3087.47,3099.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='saddlebrown'><b>Haki R. Madhubuti</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3100.73,3101.39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color='blueviolet'><b>Joanne V. Gabbin</b></font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3101.39,3115.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "at 12",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3175.58,3182.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas/speaker-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I know that many people are going off to have lunch at that hour and have lunch on your own and that's great. But if any of you want to join us in Grafton-Stovall at 12",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/heggff20/ff20-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3183.05,3198.5"
+        }
+      }
+    }
+  ]
+}
